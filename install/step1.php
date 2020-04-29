@@ -41,7 +41,7 @@ $req_arr = array(
 $req_html_arr = array(
 		'php' => "PHP v5.3 or greater",
 		"pdo_mysql" => "PDO-Mysql extension for PHP (pdo_mysql)",
-		"gd" => "GD Library (gd)",
+		#"gd" => "GD Library (gd)",
         'openssl' => "Open SSL (openssl)"
 );
 $stat_arr = array(0=> "No",1 => "Yes");
